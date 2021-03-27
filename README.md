@@ -16,3 +16,10 @@ An individual art have these values -
   6. Prersonal rating for that art.
   
  One can add, update or delete an art . Also he can see the list of art individaully, for each type or accross all types with full details.
+
+
+How to run:
+    
+    Open command prompt or terminal. GO to the directory.
+    Type 'javac Main.java' and enter.
+    Type 'java Main' and enter.
